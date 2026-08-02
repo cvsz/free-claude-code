@@ -39,7 +39,7 @@ voice = [
     "nvidia-riva-client>=2.26.0",
 ]
 voice_local = [
-    "torch>=2.12.1",
+    "torch>=2.13.0",
     "transformers>=5.12.1",
     "accelerate>=1.14.0",
     "librosa>=0.10.0",
